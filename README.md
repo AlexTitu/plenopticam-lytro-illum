@@ -1,3 +1,3 @@
 # plenopticam-lytro-illum
-Testing the Python library plenopticam on different images captured by Lytro Illum plenoptic camera. The scope is to understand the physical principle and the way a plenoptic camera works and how it's images could be processed.
+Studied the processing steps that take place inside the Plenopticam Python library for light field captured imagery. The project had the didactic purpose of understanding the principle behind the plenoptic cameras, especially Lytro Illum, and what kind of information can be captured and processed. 
 Contributors: Marica Octavian-Florin, Tițu Alex-Costin, Vlăsceanu Vlad-Eugen
